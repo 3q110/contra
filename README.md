@@ -4,9 +4,9 @@
 
 ## 在线游玩
 
-[![Play Online](https://img.shields.io/badge/Play-Online-green?style=for-the-badge&logo=chrome)](contra.html)
+[![Play Online](https://img.shields.io/badge/Play-Online-green?style=for-the-badge&logo=chrome)](https://3q110.github.io/contra/contra.html)
 
-直接点击上面的 **Play Online** 按钮或在浏览器中打开 [contra.html](contra.html) 即可开始游戏。
+点击上面的 **Play Online** 按钮即可在浏览器中直接开始游戏！
 
 ## 操作方式
 
